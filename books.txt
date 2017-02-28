@@ -1,4 +1,5 @@
 Czysty Kod
 Janusz Stal PPIO
 Thinking in java
-qweqwqewqeq
+Symfonny C++
+Turbo Pascal
